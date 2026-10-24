@@ -1,0 +1,6 @@
+Coeficiente A: 0.16
+Coeficiente B: 4.0
+Equacao: y = 0.16 * x + 4.0
+Para x = 50 oC:
+Corrente: 12.00 mA
+Classificacao: Media (ate 60 oC)
